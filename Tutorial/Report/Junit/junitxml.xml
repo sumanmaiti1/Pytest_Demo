@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="4" time="0.169" timestamp="2024-04-11T18:54:56.511011" hostname="Hare_Krishna"><testcase classname="test_junitxml.SumanDemo" name="suman_func1" time="0.001" /><testcase classname="test_junitxml.SumanDemo" name="suman_func2" time="0.001" /><testcase classname="test_junitxml.SumanDemo" name="suman_func3" time="0.001" /><testcase classname="test_junitxml.SumanDemo" name="suman_func4" time="0.001"><failure message="assert 0">self = &lt;test_junitxml.SumanDemo object at 0x000001FB72272870&gt;
+
+    def suman_func4(self):
+        print("inside SumanFunction 4")
+&gt;       assert 0
+E       assert 0
+
+test_junitxml.py:14: AssertionError</failure></testcase></testsuite></testsuites>
