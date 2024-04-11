@@ -1,5 +1,5 @@
 # This Project is for Pytest Tutorial.
-Requirements or  :
+Requirements or Needed Package Details :
 1) Python 3.8+ or PyPy3. (Pyhon Version : 3.12)
 2) Pytest (Pytest Version : 8.1.1) -->  [ pip install -U pytest ]
 3) pytest-html (Version : 4.1.1)) -->  [ pip install pytest-html ] 
